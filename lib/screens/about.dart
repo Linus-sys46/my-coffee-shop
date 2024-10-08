@@ -14,6 +14,7 @@ class AboutUsPage extends StatelessWidget {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
+              
               Text(
                 'Coffee Shop',
                 style: TextStyle(
